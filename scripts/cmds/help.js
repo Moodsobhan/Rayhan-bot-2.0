@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "MR.AYAN", //**orginal author fb I'd : https://m.me/NOOBS.DEVELOPER.AYAN **//
+    author: "𝙋𝙝𝙮𝙩𝙝𝙤𝙣 9𝙓", //**orginal author fb I'd : https://www.facebook.com/its.rai.han.0.8.0 **//
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -113,7 +113,7 @@ module.exports = {
    ➢ 𝙐𝙎𝘼𝙂𝙀
      ➠ ${usage}
    ➢ 𝙉𝙊𝙏𝙀𝙎
-    scripts coding by MR.RAFI
+    scripts coding by 𝙋𝙝𝙮𝙩𝙝𝙤𝙣 9𝙓
   ━━━━━━━━━━━━━━━━━━ꔪ`;
 
         await message.reply(response);
