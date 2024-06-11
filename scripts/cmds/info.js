@@ -25,7 +25,7 @@ module.exports = {
 
   onStart: async function ({ message, prefix }) {
     const botPrefix = prefix; // Use the provided bot prefix
-    const authorName = "Phython 9X";
+    const authorName = "𝙋𝙝𝙮𝙩𝙝𝙤𝙣 9𝙓";
     const authorFB = "https://www.facebook.com/its.rai.han.0.8.0";
 
     const now = moment();
