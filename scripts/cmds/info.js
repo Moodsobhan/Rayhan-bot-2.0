@@ -32,7 +32,7 @@ module.exports = {
     const authorInsta = "No Use";
     const status = "Single🙂 ";
     const imgURLs = [
-      "https://i.imgur.com/mhOL6QL.jpeg",
+      "https://i.postimg.cc/13kt5dNx/IMG-20240612-151851-918.jpg",
     ];
 
 
